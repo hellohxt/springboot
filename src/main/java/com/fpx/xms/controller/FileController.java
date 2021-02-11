@@ -4,6 +4,9 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+/**
+ * 文件控制
+ */
 public class FileController {
 
 	public static void main(String[] args) throws IOException {
